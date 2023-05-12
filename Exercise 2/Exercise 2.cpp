@@ -5,6 +5,6 @@ int Faris[97];
 int low;
 int high;
 void BinarySearch() 
-
-
+{
+	while (low <= high)
 	
